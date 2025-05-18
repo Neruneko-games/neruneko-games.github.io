@@ -1,8 +1,8 @@
-# 🎹 Neruneko Games
+# Neruneko Games
 
-ようこそ、Neruneko Games公式サイトへ。
+ようこそ　Neruneko Games公式サイトへ。
 
-ここでは、寝ル猫（@NerunekoGame）が制作するホラー・ADV・実験的インディーゲームたちを紹介しています。
+寝ル猫が制作するインディーゲームを紹介しています。
 
 ---
 
@@ -26,16 +26,14 @@
 
 ## 🧪 制作中の作品（近日公開）
 
-- Escape Protocol（AIヒロイン×3D脱出）
-- Super Ghosty（仮）
+- 近日公開予定
 
 ---
 
 ## 🧑‍💻 制作：寝ル猫
 
 - Twitter（X）：[@NerunekoGame](https://twitter.com/NerunekoGame)
-- UE / Unity 両対応のインディー開発者
-- 実験と情熱でゲームを作ってます
+- 連絡先： neruneko-game@gmail.com
 
 <style>
   body {

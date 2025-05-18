@@ -65,16 +65,13 @@ title: Biggest Piano
 
 配信・実況は大歓迎です！
 
-- ルールやガイドラインは、作者のX（[@NerunekoGame](https://twitter.com/NerunekoGame)）まで
-
 ---
 
 ## 🧑‍💻 作者について
 
-制作：寝ル猫（個人開発）  
-Unreal Engine 5.4.4 使用
+制作：寝ル猫（個人開発）
 
-お問い合わせ：XにてDMまで
+連絡先： neruneko-game@gmail.com
 
 ---
 
