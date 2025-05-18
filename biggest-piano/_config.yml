@@ -4,3 +4,5 @@ description: >
   This is the official page for Biggest Piano, a short horror-comedy game by Neruneko.
 theme: jekyll-theme-cayman
 markdown: kramdown
+include:
+  - https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;700&display=swap

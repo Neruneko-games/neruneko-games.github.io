@@ -37,6 +37,12 @@
 - UE / Unity 両対応のインディー開発者
 - 実験と情熱でゲームを作ってます
 
+<style>
+  body {
+    font-family: 'Noto Sans JP', sans-serif;
+  }
+</style>
+
 <footer>
   <p style="text-align:center; font-size: 0.8em;">&copy; 2025 Neruneko Games. All rights reserved.</p>
 </footer>

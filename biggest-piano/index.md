@@ -3,6 +3,12 @@ layout: default
 title: Biggest Piano
 ---
 
+<style>
+  body {
+    font-family: 'Noto Sans JP', sans-serif;
+  }
+</style>
+
 <header>
   <img src="assets/images/logo_biggest_piano.png" alt="ビッゲストピアノのロゴイメージ.png" style="width:100%; max-height: 400px; object-fit: cover;">
 </header>
