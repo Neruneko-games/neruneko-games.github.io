@@ -1,14 +1,3 @@
 body {
     font-family: 'Noto Sans JP', sans-serif;
 }
-
-/* Caymanテーマのタイトルとサブタイトルの幅を調整 */
-.page-title {
-    max-width: 800px;
-    margin: 0 auto;
-}
-
-.page-subtitle {
-    max-width: 800px;
-    margin: 0 auto;
-}

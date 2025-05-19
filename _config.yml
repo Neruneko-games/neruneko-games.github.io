@@ -1,9 +1,7 @@
 title: 寝ル猫 -Neruneko-
 description: >
-  寝ル猫が制作するインディーゲームの公式ポータルサイトです。
+  寝ル猫が制作するインディーゲームの公式ポータルサイトです。<br>
   This is the official portal for indie games created by Neruneko.
-theme: jekyll-theme-cayman
-markdown: kramdown
-# Google Fontsの読み込みをNoto Sans JPに変更
-include:
-  - https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;700&display=swap
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
