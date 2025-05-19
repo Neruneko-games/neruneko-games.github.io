@@ -32,25 +32,24 @@ body {
         color: #FFD700; // 見出しをゴールドに
     }
 
-    // 引用のスタイル（より具体的に指定）
-    blockquote {
+    // 引用のスタイル（より具体的に指定）    blockquote {
         background-color: #2A2A2E; // 濃いめのグレー
         border-left: 0.3rem solid #DAA520 !important; // 左ボーダーを強制的にゴールドに
-        color: #ffffff !important; // テキストを強制的に白に
+        color: #FAEBD7 !important; // アンティークホワイト
         padding: 1rem;
         border-radius: 4px; // 角を少し丸く
         margin: 1rem 0; // 上下の余白を追加
 
-        // 引用内のすべての要素の色を白に
+        // 引用内のすべての要素の色をアンティークホワイトに
         *, 
         h1, h2, h3, h4, h5, h6,
         p {
-            color: #ffffff !important;
+            color: #FAEBD7 !important;
         }
 
-        // 引用内の太字も白のまま
+        // 引用内の太字は少し明るく
         strong {
-            color: #ffffff !important;
+            color: #FFF5E6 !important; // より明るいアンティークホワイト
             font-weight: bold;
         }
     }
@@ -63,5 +62,56 @@ a {
     &:hover {
         color: #00CED1; // ホバー時は明るいターコイズ系の色に
         text-decoration: none;
+    }
+}
+
+// スライダーのスタイル
+.slider-container {
+    position: relative;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.slide {
+    display: none;
+    width: 100%;
+    border-radius: 8px;
+    
+    &.active {
+        display: block;
+    }
+
+    img {
+        width: 100%;
+        border-radius: 8px;
+        box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+    }
+}
+
+.thumbnail-nav {
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    margin-top: 1rem;
+    flex-wrap: wrap;
+    
+    img {
+        width: 100px;
+        height: 60px;
+        object-fit: cover;
+        border: 2px solid transparent;
+        border-radius: 4px;
+        cursor: pointer;
+        opacity: 0.7;
+        transition: all 0.3s ease;
+        
+        &:hover {
+            opacity: 1;
+        }
+        
+        &.active {
+            border-color: #DAA520;
+            opacity: 1;
+        }
     }
 }

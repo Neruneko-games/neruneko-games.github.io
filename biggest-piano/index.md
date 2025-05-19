@@ -39,8 +39,40 @@ description: 無料×短編×コミカルホラー
 
 ## <img src="assets/images/icon.png" alt="icon" style="width: 24px; height: 24px; vertical-align: middle;"> ゲームスクリーンショット
 
-- ここにゲーム内のシーン画像を貼ってください（例：`assets/images/piano_stage_screenshot.png`）
-- 画像サイズは幅800px以上推奨
+<div class="slider-container">
+    <div class="slide active">
+        <img src="assets/images/Screenshot00000.jpg" alt="スクリーンショット1">
+    </div>
+    <div class="slide">
+        <img src="assets/images/Screenshot00001.jpg" alt="スクリーンショット2">
+    </div>
+    <div class="slide">
+        <img src="assets/images/Screenshot00002.jpg" alt="スクリーンショット3">
+    </div>
+    <div class="thumbnail-nav">
+        <img src="assets/images/Screenshot00000.jpg" alt="サムネイル1" onclick="showSlide(0)" class="active">
+        <img src="assets/images/Screenshot00001.jpg" alt="サムネイル2" onclick="showSlide(1)">
+        <img src="assets/images/Screenshot00002.jpg" alt="サムネイル3" onclick="showSlide(2)">
+    </div>
+</div>
+
+<script>
+function showSlide(index) {
+    const slides = document.querySelectorAll('.slide');
+    slides.forEach(slide => slide.classList.remove('active'));
+    slides[index].classList.add('active');
+    
+    // サムネイルのアクティブ状態を更新
+    const thumbnails = document.querySelectorAll('.thumbnail-nav img');
+    thumbnails.forEach(thumb => thumb.classList.remove('active'));
+    thumbnails[index].classList.add('active');
+}
+
+// 初期状態を設定
+document.addEventListener('DOMContentLoaded', () => {
+    showSlide(0);
+});
+</script>
 
 ---
 
