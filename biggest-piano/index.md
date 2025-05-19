@@ -1,13 +1,14 @@
 ---
 layout: default
 title: BIGGEST PIANO
+description: 無料ホラーゲーム
 ---
 
 <link rel="stylesheet" href="../assets/styles.css">
 <link rel="icon" href="/biggest-piano/assets/favicon.png" type="image/png">
 
 <header>
-  <img src="assets/images/logo_biggest_piano.png" alt="ビッゲストピアノのロゴイメージ.png" style="width:100%; max-height: 400px; object-fit: cover;">
+  <img src="assets/images/Event Cover.png" alt="ビッゲストピアノのロゴイメージ.png" style="width:100%; max-height: 400px; object-fit: cover;">
 </header>
 
 # このピアノ、何かがおかしい。
