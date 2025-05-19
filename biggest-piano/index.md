@@ -75,14 +75,20 @@ description: 無料×短編×コミカルホラー
 
 ---
 
-## <img src="assets/images/icon.png" alt="icon" style="width: 24px; height: 24px; vertical-align: middle;"> 配信について
+{% include streaming.html %}
 
-配信・実況は大歓迎です！
+---
+
+{% include support.html %}
 
 ---
 
 {% include author.html %}
 
-{% include footer.html %}
+---
 
 {% include back_to_home.html %}
+
+---
+
+{% include footer.html %}

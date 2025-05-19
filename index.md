@@ -9,7 +9,7 @@ title: 寝ル猫 -Neruneko-
 
 ### 🔸 [Biggest Piano](./biggest-piano/index.html)
 
-<img src="./biggest-piano/assets/images/Event Cover.jpg" alt="Biggest Piano ロゴ" style="width: 100%; max-width: 800px; height: auto; border-radius: 8px;">
+<img src="./biggest-piano/assets/images/Event Cover.jpg" alt="Biggest Piano ロゴ" style="width: 100%; max-width: 400px; height: auto; border-radius: 8px;">
 
 **このピアノ、何かがおかしい。**
 
@@ -30,6 +30,8 @@ title: 寝ル猫 -Neruneko-
 ---
 
 {% include author.html %}
+
+---
 
 {% include footer.html %}
 
