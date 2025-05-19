@@ -7,6 +7,7 @@
 .page-header {
     color: #fff;
     text-align: center;
+    max-width: 960px; // 最大幅を960pxに設定
     width: auto; // 幅を自動調整に変更
     min-height: 100px; // 最小の高さを設定
     height: auto; // 高さを自動調整（コンテンツに合わせて可変）
