@@ -1,2 +1,9 @@
 --- --- @import "{{ site.theme }}";
-@import "mycss";
+
+// ここに独自のCSS（上書き用）を書く
+.page-header {
+    max-width: 1000px;
+    /* 任意の幅に調整 */
+    margin-left: auto;
+    margin-right: auto;
+}
