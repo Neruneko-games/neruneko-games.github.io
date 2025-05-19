@@ -56,22 +56,7 @@ description: 無料×短編×コミカルホラー
     </div>
 </div>
 
-<script>
-function showSlide(index) {
-    const slides = document.querySelectorAll('.slide');
-    slides.forEach(slide => slide.classList.remove('active'));
-    slides[index].classList.add('active');
-    
-    // サムネイルのアクティブ状態を更新
-    const thumbnails = document.querySelectorAll('.thumbnail-nav img');
-    thumbnails.forEach(thumb => thumb.classList.remove('active'));
-    thumbnails[index].classList.add('active');
-}
-
-// 初期状態を設定
-document.addEventListener('DOMContentLoaded', () => {
-    showSlide(0);
-});
+<script src="/assets/js/slider.js"></script>
 </script>
 
 ---
