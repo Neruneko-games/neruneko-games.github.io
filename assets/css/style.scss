@@ -7,10 +7,15 @@
 .page-header {
     color: #fff;
     text-align: center;
-    max-width: 960px;
+    width: auto; // 幅を自動調整に変更
+    min-height: 200px; // 最小の高さを設定
+    height: auto; // 高さを自動調整（コンテンツに合わせて可変）
     padding: 2rem;
     border-radius: 12px;
-    background-color: #1a1a1a; // フォールバック用の背景色
-    background-image: linear-gradient(120deg, #1a1a1a, #333333); // グラデーションを黒系に変更
+    background-color: #B8860B; // フォールバック用の背景色（ダークゴールド）
+    background-image: linear-gradient(120deg, #FFD700, #B8860B); // ゴールドのグラデーション
     margin: 0 auto; // 中央揃え
+    display: flex; // Flexboxを使用して内容を中央寄せ
+    flex-direction: column; // 縦方向に配置
+    justify-content: center; // 縦方向の中央寄せ
 }
