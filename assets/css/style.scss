@@ -5,9 +5,12 @@
 
 // ここに独自のCSS（上書き用）を書く
 .page-header {
-    background-color: #1a1a1a;
     color: #fff;
+    text-align: center;
     max-width: 960px;
     padding: 2rem;
     border-radius: 12px;
+    background-color: #1a1a1a; // フォールバック用の背景色
+    background-image: linear-gradient(120deg, #1a1a1a, #333333); // グラデーションを黒系に変更
+    margin: 0 auto; // 中央揃え
 }
