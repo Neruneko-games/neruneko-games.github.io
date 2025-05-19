@@ -1,4 +1,7 @@
---- --- @import "{{ site.theme }}";
+---
+---
+
+@import "jekyll-theme-cayman";
 
 // ここに独自のCSS（上書き用）を書く
 .page-header {
