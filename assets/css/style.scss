@@ -8,7 +8,7 @@
     color: #fff;
     text-align: center;
     width: auto; // 幅を自動調整に変更
-    min-height: 200px; // 最小の高さを設定
+    min-height: 100px; // 最小の高さを設定
     height: auto; // 高さを自動調整（コンテンツに合わせて可変）
     padding: 2rem;
     border-radius: 12px;
@@ -18,4 +18,16 @@
     display: flex; // Flexboxを使用して内容を中央寄せ
     flex-direction: column; // 縦方向に配置
     justify-content: center; // 縦方向の中央寄せ
+}
+
+body {
+    background-color: #1C1C1E; // ダークグレー（少し青みがかった黒）
+    color: #ffffff; // テキストを白に
+}
+
+.main-content {
+    color: #ffffff; // メインコンテンツのテキストも白に
+    h1, h2, h3, h4, h5, h6 {
+        color: #FFD700; // 見出しをゴールドに
+    }
 }
