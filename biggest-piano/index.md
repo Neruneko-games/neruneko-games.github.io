@@ -67,3 +67,5 @@ title: Biggest Piano
 {% include author.html %}
 
 {% include footer.html %}
+
+{% include back_to_home.html %}

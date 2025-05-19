@@ -1,3 +1,13 @@
+---
+layout: default
+title: 寝ル猫 -Neruneko-
+---
+
+<link rel="stylesheet" href="../assets/styles.css">
+<header>
+  <img src="assets/images/logo_biggest_piano.png" alt="ビッゲストピアノのロゴイメージ.png" style="width:100%; max-height: 400px; object-fit: cover;">
+</header>
+
 ## 🎮 公開中のゲーム
 
 ### 🔸 [Biggest Piano](./biggest-piano/index.html)
