@@ -3,11 +3,7 @@ layout: default
 title: Biggest Piano
 ---
 
-<style>
-  body {
-    font-family: 'Noto Sans JP', sans-serif;
-  }
-</style>
+<link rel="stylesheet" href="../assets/styles.css">
 
 <header>
   <img src="assets/images/logo_biggest_piano.png" alt="ビッゲストピアノのロゴイメージ.png" style="width:100%; max-height: 400px; object-fit: cover;">
@@ -67,14 +63,6 @@ title: Biggest Piano
 
 ---
 
-## 🧑‍💻 作者について
+{% include author.html %}
 
-制作：寝ル猫（個人開発）
-
-連絡先： neruneko-game@gmail.com
-
----
-
-<footer>
-  <p style="text-align:center; font-size: 0.8em;">&copy; 2025 Neruneko. All rights reserved.</p>
-</footer>
+{% include footer.html %}

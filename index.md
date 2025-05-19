@@ -30,17 +30,6 @@
 
 ---
 
-## 🧑‍💻 制作：寝ル猫
+{% include author.html %}
 
-- Twitter（X）：[@NerunekoGame](https://twitter.com/NerunekoGame)
-- 連絡先： neruneko-game@gmail.com
-
-<style>
-  body {
-    font-family: 'Noto Sans JP', sans-serif;
-  }
-</style>
-
-<footer>
-  <p style="text-align:center; font-size: 0.8em;">&copy; 2025 Neruneko Games. All rights reserved.</p>
-</footer>
+{% include footer.html %}
