@@ -4,6 +4,7 @@ title: Biggest Piano
 ---
 
 <link rel="stylesheet" href="../assets/styles.css">
+<link rel="icon" href="assets/favicon.png" type="image/png">
 
 <header>
   <img src="assets/images/logo_biggest_piano.png" alt="ビッゲストピアノのロゴイメージ.png" style="width:100%; max-height: 400px; object-fit: cover;">
