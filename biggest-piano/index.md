@@ -8,7 +8,7 @@ description: 無料×短編×コミカルホラー
 <link rel="icon" href="/biggest-piano/assets/favicon.png" type="image/png">
 
 <header>
-  <img src="assets/images/Event Cover.png" alt="Event Cover.png" style="width:100%; max-height: 400px; object-fit: cover;">
+  <img src="assets/images/Event Cover.jpg" alt="Event Cover.jpg" style="width:100%; max-height: 400px; object-fit: cover;">
 </header>
 
 # このピアノ、何かがおかしい。
