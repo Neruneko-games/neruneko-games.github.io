@@ -31,3 +31,22 @@ body {
         color: #FFD700; // 見出しをゴールドに
     }
 }
+
+// リンクのスタイル
+a {
+    color: #40E0D0; // ターコイズ系の色
+    text-decoration: none; // 下線を消す
+    &:hover {
+        color: #00CED1; // ホバー時は明るいターコイズ系の色に
+        text-decoration: none;
+    }
+}
+
+// 引用のスタイル
+blockquote {
+    background-color: #2A2A2E; // 濃いめのグレー
+    border-left: 0.3rem solid #DAA520; // 左ボーダーをゴールドに
+    color: #ffffff; // テキストを白に
+    padding: 1rem;
+    border-radius: 4px; // 角を少し丸く
+}
