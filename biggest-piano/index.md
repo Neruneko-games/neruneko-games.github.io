@@ -1,7 +1,6 @@
 ---
 layout: default
 title: BIGGEST PIANO
-description: aaa
 ---
 
 <link rel="stylesheet" href="../assets/styles.css">
