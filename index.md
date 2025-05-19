@@ -1,11 +1,3 @@
-# Neruneko Games
-
-ようこそ　Neruneko Games公式サイトへ。
-
-寝ル猫が制作するインディーゲームを紹介しています。
-
----
-
 ## 🎮 公開中のゲーム
 
 ### 🔸 [Biggest Piano](./biggest-piano/index.html)
@@ -34,4 +26,4 @@
 
 {% include footer.html %}
 
-<link rel="icon" href="assets/favicon.png" type="image/png">
+<link rel="icon" href="/assets/favicon.png" type="image/png">
