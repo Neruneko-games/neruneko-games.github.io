@@ -33,7 +33,8 @@ body {
         color: #FFD700; // 見出しをゴールドに
     }
 
-    // 引用のスタイル（より具体的に指定）    blockquote {
+    // 引用のスタイル（より具体的に指定）
+    blockquote {
         background-color: #2A2A2E; // 濃いめのグレー
         border-left: 0.3rem solid #DAA520 !important; // 左ボーダーを強制的にゴールドに
         color: #FAEBD7 !important; // アンティークホワイト
@@ -54,65 +55,55 @@ body {
             font-weight: bold;
         }
     }
-}
 
-// リンクのスタイル
-a {
-    color: #40E0D0; // ターコイズ系の色
-    text-decoration: none; // 下線を消す
-    &:hover {
-        color: #00CED1; // ホバー時は明るいターコイズ系の色に
-        text-decoration: none;
-    }
-}
+    // スライダーのスタイル
+    .slider-container {
+        position: relative;
+        max-width: 800px;
+        margin: 0 auto;
 
-// スライダーのスタイル
-.slider-container {
-    position: relative;
-    max-width: 800px;
-    margin: 0 auto;
-}
+        .slide {
+            display: none;
+            width: 100%;
+            border-radius: 8px;
+            
+            &.active {
+                display: block;
+            }
 
-.slide {
-    display: none;
-    width: 100%;
-    border-radius: 8px;
-    
-    &.active {
-        display: block;
-    }
-
-    img {
-        width: 100%;
-        border-radius: 8px;
-        box-shadow: 0 4px 8px rgba(0,0,0,0.2);
-    }
-}
-
-.thumbnail-nav {
-    display: flex;
-    gap: 10px;
-    justify-content: center;
-    margin-top: 1rem;
-    flex-wrap: wrap;
-    
-    img {
-        width: 100px;
-        height: 60px;
-        object-fit: cover;
-        border: 2px solid transparent;
-        border-radius: 4px;
-        cursor: pointer;
-        opacity: 0.7;
-        transition: all 0.3s ease;
-        
-        &:hover {
-            opacity: 1;
+            img {
+                width: 100%;
+                border-radius: 8px;
+                box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+            }
         }
+    }
+
+    .thumbnail-nav {
+        display: flex;
+        gap: 10px;
+        justify-content: center;
+        margin-top: 1rem;
+        flex-wrap: wrap;
         
-        &.active {
-            border-color: #DAA520;
-            opacity: 1;
+        img {
+            width: 100px;
+            height: 60px;
+            object-fit: cover;
+            border: 2px solid transparent;
+            border-radius: 4px;
+            cursor: pointer;
+            opacity: 0.7;
+            transition: all 0.3s ease;
+            
+            &:hover {
+                opacity: 1;
+            }
+            
+            &.active {
+                border-color: #DAA520;
+                opacity: 1;
+            }
         }
     }
 }
