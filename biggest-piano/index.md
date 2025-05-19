@@ -57,7 +57,6 @@ description: 無料×短編×コミカルホラー
 </div>
 
 <script src="/assets/js/slider.js"></script>
-</script>
 
 ---
 
