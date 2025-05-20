@@ -11,11 +11,13 @@ description: 無料×短編×コミカルホラー
   <img src="assets/images/Event Cover.jpg" alt="Event Cover.jpg" style="width:100%; max-height: 400px; object-fit: cover;">
 </header>
 
+### Steamのウィジェット差し込み位置
+
 # このピアノ、何かがおかしい。
 
 特別なコンサートへ、ようこそ。
 
-> **ピアノが大きすぎる——というただそれだけの違和感から始まる、短編×コミカルホラーです。たぶん怖くないです。**
+> **ピアノが大きすぎる——というただそれだけの違和感から始まる、短編×コミカルホラーです**
 
 ## <img src="assets/images/icon.png" alt="icon" style="width: 24px; height: 24px; vertical-align: middle;"> ゲーム紹介
 
@@ -35,16 +37,13 @@ description: 無料×短編×コミカルホラー
 
 ピアノの呪いに立ち向かい、ショウコを救えるか？
 
-### 五感のすべてが奏でる———ニゲロ
-### もう誰にも止められない
-### 今、もっとも目が離せないコンサートが開演する
+> ** 五感のすべてが奏でる———ニゲロ **
+> ** もう誰にも止められない **
+> ** 今、もっとも目が離せないコンサートが開演する **
 
 ---
 
 ## 恐怖はフォルティシモ。真の休符は訪れるのか？
-
-** 『Biggest Piano』** は、  
-“気づいてしまう”、約20分で終わる短編ホラーです。
 
 - エンディングはビッグに2種類！
 - 簡単操作でビッグに遊べ！マウス視点操作とWASD移動のみ！
@@ -53,6 +52,7 @@ description: 無料×短編×コミカルホラー
 > ※ホラーとコメディの境界を見失いながら制作したため、  
 > “ピアノ”が開発者の想定していないサイズになる不具合が発生することがあります。  
 > 発生した場合はお手数ですが、レビューに「ピアノのサイズ」を記載してください。
+
 ---
 
 ## <img src="assets/images/icon.png" alt="icon" style="width: 24px; height: 24px; vertical-align: middle;"> ゲームスクリーンショット
@@ -83,13 +83,6 @@ description: 無料×短編×コミカルホラー
 - プレイ時間：約20分
 - 操作：マウス or マウス＋WASD移動
 - エンディング：2種類（GOOD / BAD）
-
----
-
-## <img src="assets/images/icon.png" alt="icon" style="width: 24px; height: 24px; vertical-align: middle;"> 無料で遊べます！
-
-- Steam版：[リンクをここに貼ってください]
-- ZIP版（ダウンロード）：[準備中 or URLをここに記載]
 
 ---
 
