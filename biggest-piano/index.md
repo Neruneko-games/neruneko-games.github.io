@@ -63,7 +63,7 @@ description: 無料×短編×コミカルホラー
 ## <img src="assets/images/icon.png" alt="icon" style="width: 24px; height: 24px; vertical-align: middle;"> プレイ時間・操作
 
 - プレイ時間：約20分
-- 操作：マウス＋WASD移動のみ
+- 操作：マウス or マウス＋WASD移動
 - エンディング：2種類（GOOD / BAD）
 
 ---
