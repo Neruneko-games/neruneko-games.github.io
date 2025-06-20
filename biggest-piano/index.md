@@ -11,7 +11,17 @@ description: 無料×短編×コミカルホラー
   <img src="assets/images/Event Cover.jpg" alt="Event Cover.jpg" style="width:100%; max-height: 400px; object-fit: cover;">
 </header>
 
+<div style="text-align:center;">
 <iframe src="https://store.steampowered.com/widget/3822430/" frameborder="0" width="646" height="190"></iframe>
+</div>
+
+---
+
+<div style="text-align:center;">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZFiiTSsVfk4?si=pC7dwVMWfQd1dSb8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
+---
 
 # このピアノ、何かがおかしい。
 
