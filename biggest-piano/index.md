@@ -11,7 +11,7 @@ description: 無料×短編×コミカルホラー
   <img src="assets/images/Event Cover.jpg" alt="Event Cover.jpg" style="width:100%; max-height: 400px; object-fit: cover;">
 </header>
 
-### Steamのウィジェット差し込み位置
+<iframe src="https://store.steampowered.com/widget/3822430/" frameborder="0" width="646" height="190"></iframe>
 
 # このピアノ、何かがおかしい。
 
@@ -61,18 +61,26 @@ description: 無料×短編×コミカルホラー
 
 <div class="slider-container">
     <div class="slide active">
-        <img src="assets/images/Screenshot00000.jpg" alt="スクリーンショット1">
+        <img src="assets/images/ss1.jpg" alt="スクリーンショット1">
     </div>
     <div class="slide">
-        <img src="assets/images/Screenshot00001.jpg" alt="スクリーンショット2">
+        <img src="assets/images/ss2.jpg" alt="スクリーンショット2">
     </div>
     <div class="slide">
-        <img src="assets/images/Screenshot00002.jpg" alt="スクリーンショット3">
+        <img src="assets/images/ss3.jpg" alt="スクリーンショット3">
+    </div>
+    <div class="slide">
+        <img src="assets/images/ss4.jpg" alt="スクリーンショット3">
+    </div>
+    <div class="slide">
+        <img src="assets/images/ss5.jpg" alt="スクリーンショット3">
     </div>
     <div class="thumbnail-nav">
-        <img src="assets/images/Screenshot00000.jpg" alt="サムネイル1" onclick="showSlide(0)" class="active">
-        <img src="assets/images/Screenshot00001.jpg" alt="サムネイル2" onclick="showSlide(1)">
-        <img src="assets/images/Screenshot00002.jpg" alt="サムネイル3" onclick="showSlide(2)">
+        <img src="assets/images/ss1.jpg" alt="サムネイル1" onclick="showSlide(0)" class="active">
+        <img src="assets/images/ss2.jpg" alt="サムネイル2" onclick="showSlide(1)">
+        <img src="assets/images/ss3.jpg" alt="サムネイル3" onclick="showSlide(2)">
+        <img src="assets/images/ss4.jpg" alt="サムネイル4" onclick="showSlide(3)">
+        <img src="assets/images/ss5.jpg" alt="サムネイル5" onclick="showSlide(4)">
     </div>
 </div>
 

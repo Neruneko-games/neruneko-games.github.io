@@ -160,4 +160,28 @@ body {
             margin-bottom: 0;
         }
     }
+
+    // サポートギャラリーのスタイル
+    .support-gallery {
+        display: flex;
+        justify-content: center;
+        gap: 1.5rem;
+        margin: 1.5rem 0;
+    }
+
+    .support-gallery-img {
+        width: 140px;
+        height: 140px;
+        object-fit: cover;
+        border-radius: 1rem;
+        box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+        background: #fff;
+        border: 1px solid #eee;
+        transition: transform 0.2s;
+    }
+
+    .support-gallery-img:hover {
+        transform: scale(1.06) rotate(-2deg);
+        box-shadow: 0 4px 16px rgba(0,0,0,0.15);
+    }
 }
