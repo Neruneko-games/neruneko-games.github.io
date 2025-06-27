@@ -7,9 +7,11 @@ title: 寝ル猫 -Neruneko-
 
 ## 🎮 公開中のゲーム
 
-### 🔸 [Biggest Piano](./biggest-piano/index.html)
+### 🔸 [BIGGEST PIANO](./biggest-piano/index.html)
 
-### Steamのウィジェット差し込み位置
+<div style="text-align:center;">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZFiiTSsVfk4?si=pC7dwVMWfQd1dSb8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
 
 > **このピアノ、何かがおかしい。**
 > - エンディングはビッグに2種類！
