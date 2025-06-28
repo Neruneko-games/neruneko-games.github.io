@@ -28,6 +28,10 @@ title: 寝ル猫 -Neruneko-
 
 ---
 
+{% include support.html %}
+
+---
+
 {% include author.html %}
 
 ---
